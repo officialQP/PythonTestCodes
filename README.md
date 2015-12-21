@@ -1,3 +1,4 @@
 # PythonTestCodes
-Testcalculator
-Its a test calc
+
+Test codes
+and Python learning
